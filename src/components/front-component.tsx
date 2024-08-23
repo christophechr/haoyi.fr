@@ -138,7 +138,7 @@ export function FrontComponent() {
               <div className="space-y-2">
                 <h2 className="text-3xl font-bold tracking-tighter sm:text-5xl">My Skills</h2>
                 <p className="max-w-[900px] text-muted-foreground md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed">
-                  Here are some of the technologies and tools I'm proficient with.
+                  Here are some of the technologies and tools I{"'"}m proficient with.
                 </p>
               </div>
             </div>
@@ -178,7 +178,7 @@ export function FrontComponent() {
                 </div>
                 <div className="mt-4 text-center">
                   <h3 className="text-xl font-bold">Node.js</h3>
-                  <p className="text-muted-foreground">A JavaScript runtime built on Chrome's V8 JavaScript engine.</p>
+                  <p className="text-muted-foreground">A JavaScript runtime built on Chrome{"'"}s V8 JavaScript engine.</p>
                 </div>
               </div>
             </div>
