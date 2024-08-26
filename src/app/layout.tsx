@@ -4,6 +4,7 @@ import { DM_Sans } from 'next/font/google'
 import { Space_Mono } from 'next/font/google'
 import { cn } from '@/lib/utils'
 import './globals.css'
+import { Navbar } from '@/components/view/navbar'
 
 const fontHeading = DM_Sans({
   subsets: ['latin'],
@@ -28,6 +29,7 @@ export default function Layout({ children }: { children: React.ReactNode }) {
           fontBody.variable
         )}
       >
+        <Navbar />
         {children}
       </body>
     </html>
