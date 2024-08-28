@@ -1,4 +1,3 @@
-import { Socials } from '../../app/contact/view/socials'
 import Image from 'next/image'
 
 export function Profile() {
