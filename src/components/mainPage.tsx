@@ -1,7 +1,6 @@
 import { Profile } from "./view/profile"
 import { Projects } from "./view/projects"
 import { Skills } from "./view/skills"
-import { Footer } from "./view/footer"
 
 export function MainPage() {
   return (
@@ -16,8 +15,6 @@ export function MainPage() {
         <Skills />
 
       </main>
-
-      <Footer />
     </div>
   )
 }
