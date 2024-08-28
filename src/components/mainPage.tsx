@@ -3,7 +3,7 @@ import { Projects } from "./view/projects"
 import { Skills } from "./view/skills"
 import { Footer } from "./view/footer"
 
-export function FrontComponent() {
+export function MainPage() {
   return (
     <div className="flex flex-col min-h-[100dvh]">
 

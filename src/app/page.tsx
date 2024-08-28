@@ -1,7 +1,7 @@
-import { FrontComponent } from "@/components/front-component";
+import { MainPage } from "@/components/mainPage";
 
 export default function Home() {
   return (
-    FrontComponent()
+    MainPage()
   );
 }
