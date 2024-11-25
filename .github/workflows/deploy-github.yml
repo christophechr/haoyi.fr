@@ -7,7 +7,7 @@ on:
 
 jobs:
   mirror:
-    name: Mirror to Epitech
+    name: Mirror to main github
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
