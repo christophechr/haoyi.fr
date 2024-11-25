@@ -9,7 +9,7 @@ export function Profile() {
                 <div className="space-y-2">
                   <h1 className="text-3xl font-bold tracking-tighter sm:text-5xl xl:text-6xl/none">Christophe CHHOR</h1>
                   <p className="max-w-[600px] text-muted-foreground md:text-xl">
-                    Software Engineering Student at Epitech Paris
+                    Software Engineering Student at <a href="https://www.epitech.eu/ecole-informatique-paris/" target="_blank">Epitech Paris</a>
                   </p>
                 </div>
               </div>
