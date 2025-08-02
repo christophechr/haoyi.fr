@@ -9,16 +9,19 @@ export function Projects() {
               <div className="space-y-2">
                 <h2 className="text-3xl font-bold tracking-tighter sm:text-5xl">My Projects</h2>
                 <p className="max-w-[900px] text-muted-foreground md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed">
-                  Check out some of the web applications I{"'"}ve built to showcase my skills.
+                  Check out some of the project I have participated during my bachelor degree.
                 </p>
               </div>
             </div>
             <div className="w-full mx-auto grid max-w-5xl grid-cols-1 gap-6 py-12 sm:grid-cols-2 lg:grid-cols-2 lg:gap-12">
               <Project imgSrc='/projects/LeAREAMVP.png' width={550} height={310} alt='LeAREA' projectName='LeAREA' 
-              shortDesc='A school web project that aims to connect APIs and interact between them.' href='https://github.com/christophechr/LeAREA' hrefProvider='GitHub'/>
+              shortDesc='A school web project that aims to connect APIs and interact between them.' href='https://github.com/christophechr/LeAREA' hrefProvider='Link to source code'/>
               
               <Project imgSrc='/projects/R-TYPE.png' width={550} height={310} alt='R-TYPE' projectName='R-TYPE' 
-              shortDesc='A 2D online video game, made in C++, developping the challenge of the network in video games' href='https://github.com/Codrux2200/Rtype' hrefProvider='GitHub'/>
+              shortDesc='A 2D online video game, made in C++, developping the challenge of the network in video games' href='https://github.com/Codrux2200/Rtype' hrefProvider='Link to source code'/>
+
+              <Project imgSrc='/projects/playfit.png' width={550} height={310} alt='Playfit' projectName='Playfit'
+              shortDesc='A web application that helps users to engage in fitness activities and connect with others.' href='https://github.com/Playfit-app/Playfit' hrefProvider='Link to source code'/>
             </div>
           </div>
         </section>
