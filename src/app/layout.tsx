@@ -36,7 +36,7 @@ export const metadata: Metadata = {
     description: 'Portfolio showcasing projects in React, Next.js, C++, Java, and Node.js. Software Engineering Student at Epitech Paris.',
     images: [
       {
-        url: '/haoyi.jpg', // Your profile image
+        url: '/haoyi_open_graph.jpg', // Your optimized Open Graph image
         width: 1200,
         height: 630,
         alt: 'Christophe CHHOR - Software Engineer',
@@ -47,7 +47,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'Christophe CHHOR - Software Engineering Student',
     description: 'Portfolio showcasing projects in React, Next.js, C++, Java, and Node.js.',
-    images: ['/haoyi.jpg'],
+    images: ['/haoyi_open_graph.jpg'],
   },
   robots: {
     index: true,
