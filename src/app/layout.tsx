@@ -30,7 +30,7 @@ export const metadata: Metadata = {
   openGraph: {
     type: 'website',
     locale: 'en_US',
-    url: 'https://your-domain.com', // Replace with your actual domain
+    url: 'https://haoyi.fr', // Replace with your actual domain
     siteName: 'Christophe CHHOR Portfolio',
     title: 'Christophe CHHOR - Software Engineering Student',
     description: 'Portfolio showcasing projects in React, Next.js, C++, Java, and Node.js. Software Engineering Student at Epitech Paris.',
