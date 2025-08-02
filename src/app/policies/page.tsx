@@ -21,7 +21,7 @@ export default function Page() {
                             </h2>
                             <p className="text-slate-700 dark:text-slate-300 leading-relaxed">
                                 This is a personal portfolio website showcasing my projects, skills, and professional experience. 
-                                It's designed to be simple and respects your privacy.
+                                It&apos;s designed to be simple and respects your privacy.
                             </p>
                         </section>
 

@@ -39,7 +39,7 @@ export default function Page() {
 
                         <section>
                             <h2 className="text-2xl font-semibold text-slate-900 dark:text-slate-100 mb-3">
-                                Please Don't
+                                Please Don&apos;t
                             </h2>
                             <ul className="list-disc list-inside text-slate-700 dark:text-slate-300 space-y-1 ml-4">
                                 <li>Copy or reproduce the content without permission</li>
@@ -54,8 +54,8 @@ export default function Page() {
                                 Disclaimer
                             </h2>
                             <p className="text-slate-700 dark:text-slate-300 leading-relaxed">
-                                This website is provided "as is" for informational purposes. 
-                                While I try to keep everything accurate and up-to-date, I can't guarantee that all information is always current or complete.
+                                This website is provided &quot;as is&quot; for informational purposes. 
+                                While I try to keep everything accurate and up-to-date, I can&apos;t guarantee that all information is always current or complete.
                             </p>
                         </section>
 
